@@ -1,6 +1,6 @@
 # BERT-FORMS
 
-BERT FORMS is a repo containing layman, manager and programmer explanations of the most common versions of BERT - Bidectional Enoder Represantation for Transformers.
+BERT FORMS is a repo containing a layman, a manager, and a programmer's explanations of the most common versions of BERT - Bidirectional Encoder Represantation from Transformers.
 In this repo I compare the performance of the these forms of BERT on the following tasks.
 
 1. Sentiment analysis.
