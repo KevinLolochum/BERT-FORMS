@@ -11,7 +11,7 @@ In this repo I compare the performance of the these forms of BERT on the followi
 # Models
 1. VANILLA BERT
 - Explanation
-- Sentiment Analysis
+- [Sentiment Analysis](https://github.com/KevinLolochum/BERT-FORMS/blob/main/BERT_in_PyTorch.ipynb)
 - Text Summarization
 - Question Answering
 - Text Generation
