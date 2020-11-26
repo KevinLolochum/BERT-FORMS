@@ -12,7 +12,7 @@ In this repo I compare the performance of the these forms of BERT on the followi
 1. VANILLA BERT
 - Explanation
 - [Sentiment Analysis](https://github.com/KevinLolochum/BERT-FORMS/blob/main/BERT_in_PyTorch.ipynb)
-- Text Summarization
+- [Text Summarization](https://github.com/KevinLolochum/BERT-MODELS/blob/main/BERT_Text_Summarization.ipynb)
 - Question Answering
 - Text Generation
 2. DISTILLBERT
