@@ -16,7 +16,7 @@ In this repo I compare the performance of the these forms of BERT on the followi
 - [Question Answering](https://github.com/KevinLolochum/BERT-MODELS/blob/main/BERT_Question_Answering.ipynb)
 - Text Generation
 2. DISTILLBERT
-- Explanation
+- [Explanation](https://github.com/KevinLolochum/BERT-MODELS/blob/main/DistilBERT.ipynb)
 - Sentiment Analysis
 - Text Summarization
 - Question Answering
