@@ -19,7 +19,7 @@ In this repo I compare the performance of the these forms of BERT on the followi
 - [Explanation](https://github.com/KevinLolochum/BERT-MODELS/blob/main/DistilBERT.ipynb)
 - [Sentiment Analysis](https://github.com/KevinLolochum/BERT-MODELS/blob/main/DistillBERT_For_Sentiment_Analysis_in_PyTorch.ipynb)
 - Text Summarization
-- [Question Answering](https://github.com/KevinLolochum/BERT-MODELS/blob/main/DistilBERT_Question_Answering.ipynb)
+- [Question Answering](https://github.com/KevinLolochum/BERT-MODELS/blob/main/DistilBERT_Fine_tuned_for_Question_Answering.ipynb)
 - Text Generation
 3. BART
 - Explanation
