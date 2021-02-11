@@ -23,7 +23,7 @@ In this repo I compare the performance of the these forms of BERT on the followi
 - Text Generation
 3. BART
 - Explanation
-- Sentiment Analysis
+- [Sentiment Analysis](https://github.com/KevinLolochum/BERT-MODELS/blob/main/BART_Fine_tuned_for_Sentiment_Analysis_PyTorch.ipynb)
 - Text Summarization
 - Question Answering
 - Text Generation
