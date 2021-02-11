@@ -27,7 +27,7 @@ In this repo I compare the performance of the these forms of BERT on the followi
 - Text Summarization
 - [Question Answering](https://github.com/KevinLolochum/BERT-MODELS/blob/main/BART_Fine_tuned_for_Question_Answering.ipynb)
 - Text Generation
-4. CAMEMBERT
+4. ROBERTA
 - Explanation
 - Sentiment Analysis
 - Text Summarization
@@ -39,7 +39,7 @@ In this repo I compare the performance of the these forms of BERT on the followi
 - Text Summarization
 - Question Answering
 - Text Generation
-6. RoBERTA
+6. CAMMEMBERT
 - Explanation
 - Sentiment Analysis
 - Text Summarization
