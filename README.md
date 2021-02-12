@@ -31,7 +31,7 @@ In this repo I compare the performance of the these forms of BERT on the followi
 - [Explanation](https://github.com/KevinLolochum/BERT-MODELS/blob/main/RoBERTa.ipynb)
 - [Sentiment Analysis](https://github.com/KevinLolochum/BERT-MODELS/blob/main/RoBERTa_Fine_tuned_for_Sentiment_Analysis_PyTorch.ipynb)
 - Text Summarization
-- Question Answering
+- [Question Answering](https://github.com/KevinLolochum/BERT-MODELS/blob/main/RoBERTa_Fine_tuned_for_Question_Answering.ipynb)
 - Text Generation
 5. ALBERT
 - Explanation
