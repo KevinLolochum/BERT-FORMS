@@ -76,7 +76,7 @@ In this repo I compare the performance of the these forms of BERT on the followi
 - Question Answering
 - Text Generation
 11. GPT2
-- Explanation
+- [Explanation](https://github.com/KevinLolochum/BERT-MODELS/blob/main/GPT_2_Explanation.ipynb)
 - [Sentiment Analysis](https://github.com/KevinLolochum/BERT-MODELS/blob/main/GPT2_Fine_tuned_for_Sentiment_Analysis_PyTorch.ipynb)
 - Text Summarization
 - Question Answering
