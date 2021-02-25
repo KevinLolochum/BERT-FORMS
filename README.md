@@ -1,7 +1,7 @@
-# BERT-FORMS
+# Transformer-architecture models
 
-BERT FORMS is a repo containing a layman, a manager, and a programmer's explanations of the most common versions of BERT - Bidirectional Encoder Represantation from Transformers.
-In this repo I compare the performance of the these forms of BERT on the following tasks.
+This a repo containing explanations and fine-tuned examples of the most commonly used versions of Transformers style models, e.g the famous GPT-series.
+In this repo I compare the performance of the these models on.
 
 1. Sentiment analysis.
 2. Text summarization. 
