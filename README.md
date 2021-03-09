@@ -58,7 +58,7 @@ In this repo I compare the performance of the these models on.
 - Question Answering
 - Text Generation
 8. PEGASUS
-- Explanation
+- [Explanation](https://github.com/KevinLolochum/Transformer-style-fine-tuned-models/blob/main/Pegasus.ipynb)
 - Sentiment Analysis
 - Text Summarization
 - Question Answering
