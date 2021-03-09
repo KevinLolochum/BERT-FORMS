@@ -60,7 +60,7 @@ In this repo I compare the performance of the these models on.
 8. PEGASUS
 - [Explanation](https://github.com/KevinLolochum/Transformer-style-fine-tuned-models/blob/main/Pegasus.ipynb)
 - Sentiment Analysis
-- Text Summarization
+- [Text Summarization](https://github.com/KevinLolochum/Transformer-style-fine-tuned-models/blob/main/Pegasus_for_abstractive_summarization.ipynb)
 - Question Answering
 - Text Generation
 9. PERFORMER
